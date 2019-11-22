@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All_images_second_preprocessing_Un Annotated_225by225</folder>
+	<filename>Screenshot (15).jpeg</filename>
+	<path>D:\Codes At Intern\Genesis Ray Energy\Computer Vision - GIS\Image Annotation Datasets Dir\All_images_second_preprocessing_Un Annotated_225by225\Screenshot (15).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>135</ymin>
+			<xmax>116</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>
